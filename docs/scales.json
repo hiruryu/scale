@@ -55,7 +55,7 @@
     "notes": ["1", "9", "3/5", "/3", "3", "5/3", "9/5"],
     "deta":  ["1", "9/8", "6/5", "4/3", "3/2", "5/3", "9/5", "2"],
     "dimension": "3D"
-    "related": ["Septimal dorian", "Pythagorean dorian"
+    "related": ["Septimal dorian", "Pythagorean dorian"]
   },
   "Phrygian": {
     "jpname": "フリジアン",
